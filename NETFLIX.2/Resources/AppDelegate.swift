@@ -1,7 +1,6 @@
 //
 //  AppDelegate.swift
 //  NETFLIX.2
-//
 //  Created by Anshu Prasad on 25/12/23.
 //
 
